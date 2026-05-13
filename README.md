@@ -16,7 +16,7 @@ This project is an interactive Power BI dashboard built to analyze Amazon sales 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+Screenshot 2026-05-13 200504.png
 
 ## Key Metrics
 - Total Orders: 1611
